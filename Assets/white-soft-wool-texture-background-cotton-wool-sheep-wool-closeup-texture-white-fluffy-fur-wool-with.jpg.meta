@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a8cd9ae502a3da6469b27421ea47e750
+guid: 3cac124cc01d660418a87685a1273354
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1870828521812668424
-    second: white-fluffy-fur-fabric-wool-texture-background_293060-18182_0
+      213: 5212706475666559718
+    second: white-soft-wool-texture-background-cotton-wool-sheep-wool-closeup-texture-white-fluffy-fur-wool-with_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: white-fluffy-fur-fabric-wool-texture-background_293060-18182_0
+      name: white-soft-wool-texture-background-cotton-wool-sheep-wool-closeup-texture-white-fluffy-fur-wool-with_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1380
-        height: 920
+        width: 626
+        height: 417
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8003056e0a486f910800000000000000
-      internalID: 1870828521812668424
+      spriteID: 6e2db78ebe0475840800000000000000
+      internalID: 5212706475666559718
       vertices: []
       indices: 
       edges: []
@@ -147,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      white-fluffy-fur-fabric-wool-texture-background_293060-18182_0: 1870828521812668424
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
